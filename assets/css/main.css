@@ -3269,6 +3269,12 @@ input, select, textarea {
 
 		.wrapper.style2 {
 			background-color: #dadada7e;
+			
+		}
+		
+		#last
+		{
+			background-color: #d6d5d598;
 		}
 
 		.wrapper.style2-alt {
