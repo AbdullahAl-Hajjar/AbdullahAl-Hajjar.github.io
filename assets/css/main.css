@@ -3277,6 +3277,11 @@ input, select, textarea {
 			background-color: #d6d5d598;
 		}
 
+		#verylast
+		{
+			background-color: #cacacac7;
+		}
+
 		.wrapper.style2-alt {
 			background-color: #ffffff;
 		}
