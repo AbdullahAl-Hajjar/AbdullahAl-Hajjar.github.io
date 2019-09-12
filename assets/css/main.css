@@ -3271,15 +3271,20 @@ input, select, textarea {
 			background-color: #dadada7e;
 			
 		}
+
+		#middle
+		{
+			background-color: #dfdede98;
+		}
 		
 		#last
 		{
-			background-color: #d6d5d598;
+			background-color: #cac9c998;
 		}
 
 		#verylast
 		{
-			background-color: #cacacac7;
+			background-color: #e9e9e9c7;
 		}
 
 		.wrapper.style2-alt {
